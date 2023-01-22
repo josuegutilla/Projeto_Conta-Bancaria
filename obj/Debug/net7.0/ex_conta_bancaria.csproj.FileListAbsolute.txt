@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\bin\Debug\net7.0\ex_conta_bancaria.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\bin\Debug\net7.0\ex_conta_bancaria.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\bin\Debug\net7.0\ex_conta_bancaria.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\bin\Debug\net7.0\ex_conta_bancaria.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\bin\Debug\net7.0\ex_conta_bancaria.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\refint\ex_conta_bancaria.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ex_conta_bancaria.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_conta_bancaria\obj\Debug\net7.0\ref\ex_conta_bancaria.dll
